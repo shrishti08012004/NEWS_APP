@@ -39,6 +39,8 @@ Edit
 3. Data is converted into `News` objects via `news-model.js`.
 4. The app then dynamically generates HTML elements and displays each news article.
 
+#Live Demo:  https://shrishti08012004.github.io/NEWS_APP/
+
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
